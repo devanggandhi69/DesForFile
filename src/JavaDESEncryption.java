@@ -25,9 +25,9 @@ public class JavaDESEncryption {
 
 	public static void main(String[] args) {
 
-		String clearFile = "C:/Users/darba/Desktop/__MACOSX/TEXTFILE.TXT";
-		String encryptedFile = "C:/Users/darba/Desktop/__MACOSX/encrypted.txt";
-		String decryptedFile = "C:/Users/darba/Desktop/__MACOSX/decrypted.txt";
+		String clearFile = "original file path include file name with extension";//Choose your file path
+		String encryptedFile = "Encrypted File Path/encrypted.txt";
+		String decryptedFile = "Decrypted File Path/decrypted.txt";
 
 		try {
 
